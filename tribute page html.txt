@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Tribute Page" />
+    <title id=title>Bugs Bunny</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Bugs Bunny</h1>
+      <p>The rabbit that made us laugh</p>
+       </header>
+    <main id=main >
+      <div class="img-div" id=img-div>
+  <img id="image" src="https://cdn.digg.com/submitted-links/1651259124-TaXdZKP0R4.jpg" alt=" Bugs dress as Valkiria" style="width:100%">
+<figcaption id=img-caption>Bugs bunny love to mess with other caracters, also he was very fond on the use of costumes</figcaption>
+</div>
+<div class="facts">
+<h2>Bugs Bunny Facts</h2>
+
+<ul id="tribute-info">
+  <li>Bugs Bunny debuted on April 30, 1938.</li>
+ Bugs Bunny debuted on April 30, 1938.
+<li>Bugs Bunny first appeared on Porky’s Hare Hunt, a 1938 Warner Bros. Looney Tunes animated short movie, starring “the hunter” Porky Pig.</li>
+<li>Daffy Duck is Bugs Bunny’s best friend.</li>
+<li>Bugs Bunny’s accent is from Brooklyn, New York.</li>
+<li>Bugs Bunny is often regarded as smart, effortlessly cool, funny, and quick-witted.</li>
+<li>Daffy Duck first appeared in 1937 while Bugs Bunny came out in 1938.</li>
+<li>Bugs Bunny starred in more than 150 cartoon short movies in just 24 years.</li>
+<li>Bugs Bunny became an American cultural icon.</li>
+<li>The “carrot-eating manner” of Bugs Bunny came from Clark Gable.</li>
+<li>Bugs Bunny went beyond short movies.</li>
+<li>The first Bugs Bunny video game was released by Atari in 1983.</li>
+<li>Bugs Bunny is listed on the Hollywood Walk of Fame since 1985.</li>
+<li>Bugs Bunny got his name from one of his animators.</li>
+<li>Nickelodeon aired all Bugs Bunny’s cartoons from Looney Tunes.</li>
+<li>Space Jam became the highest-grossing non-Disney animated film of its time.</li>
+<li>There are Bugs Bunny war-inspired cartoons.</li>
+<li>The catchphrase, “What’s up, Doc?” was a common expression in Texas.</li>
+
+</ul>
+</div>
+
+</main>
+    <footer>
+      <p><b>If you have time, you should read more about this incredible rabbit on his <a id="tribute-link"  target="_blank"  href="https://en.wikipedia.org/wiki/Bugs_Bunny#:~:text=Bugs%20Bunny%20is%20an%20animated,films%2C%20produced%20by%20Warner%20Bros.">Wikipedia entry</a>
+      </b></p>
+    </footer>
+  </body>
+</html>
