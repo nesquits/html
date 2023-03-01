@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Product Landing Page" />
+    <title>Product Landing Page</title>
+    <link rel="stylesheet" href="styles.css" />
+     <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+    />
+    
+     <link
+      href="https://fonts.googleapis.com/css?family=Anton%7CBaskervville%7CRaleway&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    
+      
+        <header id="header">
+
+<div id="logo">
+<img id="header-img" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bike-icon.svg/2560px-Bike-icon.svg.png"
+            alt="logo of a bike symbol"
+            loading="lazy"
+            class="image-1"
+            width="17%"
+            height="10%"/>
+<h1 id="brand">SuperBike</h1>
+</div>
+
+
+<nav id="nav-bar">
+  <ul>
+          <li><a class="nav-link bar_button"  href="#Features" accesskey="a">Features</a></li>
+          <li><a class="nav-link bar_button"  href="#How_It_Works" accesskey="b">How It Works</a></li>
+          <li><a class="nav-link bar_button"  href="#Pricing" accesskey="b">Pricing</a></li>
+</nav>
+
+        </header>
+<main>
+        
+          
+          <form method="post" action='https://www.freecodecamp.com/email-submit'>
+          <h2>We have the better bikes of the market</h2>
+      
+        <label for="email"><input id="email" name="email" type="email" required placeholder="Enter your email address" /></label>
+        <input type="submit" value="GET STARTED" id="button-email"  />
+        
+        
+    </form>
+    
+    <div id="product_features">
+<div class="feature">
+  <i class="fa fa-bicycle" ></i>
+  <div class="product_features_text">
+  <h3>Premium Materials</h3>
+  <p>Our bikes are made of high quality materials. We only use top of the line brands.</p></div>
+  </div>
+
+<div class="feature"><i class="fa fa-truck" style="font-size:2rem"></i>
+<div class="product_features_text">
+  <h3>Fast Shipping</h3>
+  <p>We make sure you recieve your bike as soon as we have finished making it. We also provide free returns if you are not satisfied.</p></div></div>
+
+<div class="feature"><i class="fa fa-battery-full" style="font-size:2rem, color:orange"></i>
+<div class="product_features_text">
+  <h3>Quality Assurance</h3>
+  <p>For every purchase you make, we will ensure there are no damages or faults.</p>
+  </div>
+  </div>
+
+    </div>
+    
+    <!--  <iframe id="video1" width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY" loading="lazy">
+</iframe>  -->
+   
+<div id="product-list">
+
+<div class="product-box">
+  <p class="product-title">picoBike</p>
+  <p class="product-price">$500</p>
+  <p class="product-description">Lorem ipsum. Lorem ipsum.
+Lorem ipsum dolor.Lorem ipsum.</p>
+  <button type="button">SELECT</button>
+  </div>
+<div class="product-box">
+  <p class="product-title">Mega Bike</p>
+  <p class="product-price">$700</p>
+  <p class="product-description">Lorem ipsum. Lorem ipsum.
+Lorem ipsum dolor.Lorem ipsum.</p>
+  <button type="button">SELECT</button>
+  </div>
+    <div class="product-box">
+  <p class="product-title">Giga Bike</p>
+  <p class="product-price">$1200</p>
+  <p class="product-description">Lorem ipsum.
+     Lorem ipsum.
+     Lorem ipsum dolor.Lorem ipsum.
+     Lorem ipsum.
+     </p>
+  <button type="button">SELECT</button>
+  </div>
+</div>
+
+
+    
+    <footer>
+<a href="#" class="nav-link">Privacy Terms</a>
+<a href="#" class="nav-link">Contact</a>
+<p>Copyright 2016, SuperBike</p>
+
+    </footer>
+
+</div>
+
+             
+
+
+</main>
+
+
+          
+          </body>
+          </html>
